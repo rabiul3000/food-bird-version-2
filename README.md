@@ -1,4 +1,4 @@
-# 🍽️ FoodBridge API – Online Food Order & Donation Platform
+# 🍽️ FoodBird API – Backend of The Online Food Order & Donation Platform
 
 Welcome to **FoodBird**, a Node.js & Express.js backend powering an online food ordering and donation system. This backend enables users to order meals, donate excess food, and support community kitchens.
 
